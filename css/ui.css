@@ -1,3 +1,4 @@
+ @import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
 .box_widget{
 	display: inline-block;
 	margin: 5px;
@@ -53,7 +54,7 @@ body{
 }
 *{
     color: rgb(228, 228, 228);
-    font-family: sans-serif;
+    font-family: 'Press+Start+2P';
     font-weight: normal;
 }
 p,h1,h2,h3,h4,h5,h6{
